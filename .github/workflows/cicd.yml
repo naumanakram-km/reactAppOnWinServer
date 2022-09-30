@@ -22,7 +22,7 @@ jobs:
         uses: actions/upload-artifact@v3.1.0
         with:
          name: application
-         path: /home/runner/work/reactAppOnWinServer/build/*
+         path: build/*
   deploy: 
     needs: Build
     runs-on: self-hosted
