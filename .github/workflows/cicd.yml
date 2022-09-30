@@ -33,5 +33,5 @@ jobs:
       with:
        name: application
        # Destination path
-       path: C:\inetpub\wwwroot
+       path: C:\inetpub\wwwroot\ReactApp\build
  
