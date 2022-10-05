@@ -10,7 +10,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://www.youtube.com/watch?v=hzIub2noFw8&ab_channel=MuleAceAcademy"
+          href="https://sa"
           target="_blank"
           rel="noopener noreferrer"
         >
